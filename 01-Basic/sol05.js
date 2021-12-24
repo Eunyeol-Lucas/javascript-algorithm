@@ -1,4 +1,4 @@
-function solution(arr) {
+function solution1(arr) {
   let answer,
     min = Number.MAX_SAFE_INTEGER;
   // for 문을 통해 배열에 들어 있는 숫자 탐색
@@ -10,6 +10,13 @@ function solution(arr) {
   return answer;
 }
 
-let arr = [1, 5, 7, 10, 11, 13, -2];
+function solution2(arr) {
+  // Math 객체의 min 메서드를 통해 배열을 전개 구문을 통해 복사하여 최소값을 찾음
+  let answer = Math.min(...arr);
 
-console.log(solution(arr));
+  return answer;
+}
+
+let arr = [1, 5, 7, 10, 11, 13, -2];
+console.log(solution1(arr));
+console.log(solution2(arr));
