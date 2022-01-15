@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./readme_assets/js_algorithm_logo.jpg" alt="JavaScript Algorithm" width="300px" />
+  <img src="./readme_assets/js_algorithm_logo.jpeg" alt="JavaScript Algorithm" width="300px" />
   <br />
   <h1>자바스크립트 알고리즘 문제풀이</h1>
   <br />
@@ -38,3 +38,19 @@
 |  15  | 가운데 문자 출력 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol15.js) |  21.12.25.  |    -    |
 |  16  |  중복 문자 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol16.js) |  21.12.28.  |    -    |
 |  17  |  중복 단어 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol17.js) |  21.12.28.  |    -    |
+
+<br />
+
+<div id="2"></div>
+
+## 1, 2차원 배열 탐색
+
+| 번호 |      문제      |                                       JS 풀이 코드                                        | 1차 풀이 | 2차 풀이 |
+| :--: | :------------: | :---------------------------------------------------------------------------------------: | :------: | :------: |
+|  1   | 큰 수 출력하기 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol01.js) |  22.01.01.  |    -    |
+|  2   |  보이는 학생   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol02.js) |  22.01.01.  |    -    |
+|  3   |   가위바위보   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol03.js) |  22.01.02.  |    -    |
+|  4   |   점수 계산    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol04.js) |  22.01.03.  |    -    |
+|  5   |  등수 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol05.js) |  22.01.04.  |    -    |
+|  6   | 격자판 최대합  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol06.js) |  22.01.05.  |    -    |
+|  7   |     봉우리     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol07.js) |  22.01.06.  |    -    |
