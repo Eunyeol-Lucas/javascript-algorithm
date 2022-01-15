@@ -68,3 +68,17 @@
 |  3   |    숫자만 추출     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol03.js) | 22.01.08 |    -     |
 |  4   | 가장 짧은 문자거리 | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol04.js) | 22.01.09 |    -     |
 |  5   |    문자열 압축     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol05.js) | 22.01.10 |    -     |
+
+<br />
+
+<div id="4"></div>
+
+## 완전탐색(블루투포스)
+
+| 번호 |    문제     |                                          JS 풀이 코드                                          | 1차 풀이 | 2차 풀이 |
+| :--: | :---------: | :--------------------------------------------------------------------------------------------: | :------: | :------: |
+|  1   | 자리수의 합 | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/04-fullSearch/sol01.js) | 22.01.11 |    -     |
+|  2   | 뒤집은 소수 | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/04-fullSearch/sol02.js) | 22.01.12 |    -     |
+|  3   |   멘토링    | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/04-fullSearch/sol03.js) | 22.01.13 |    -     |
+|  4   |  졸업선물   | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/04-fullSearch/sol04.js) | 22.01.15 |    -     |
+|  5   | K번째 큰 수 | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/04-fullSearch/sol05.js) |    -     |    -     |
