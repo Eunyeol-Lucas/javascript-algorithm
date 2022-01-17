@@ -2,8 +2,8 @@ function solution(N, M, a, b) {
   // 공통원소를 담을 빈 배열을 가진 answer 변수를 선언
   let answer = [];
   // a와 b 배열을 오름차순으로 각각 정렬
-  a.sort();
-  b.sort();
+  a.sort((a, b) => a - b);
+  b.sort((a, b) => a - b);
   // 투 포인트 탐색을 위해 p1과 p2 변수를 선언하고 초기화
   let p1 = (p2 = 0);
   // while 문을 통해 a 배열과 b 배열을 순회하며 공통원소를 탐색
