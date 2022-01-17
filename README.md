@@ -81,4 +81,21 @@
 |  2   | 뒤집은 소수 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol02.js) | 22.01.12 |    -     |
 |  3   |   멘토링    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol03.js) | 22.01.13 |    -     |
 |  4   |  졸업선물   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol04.js) | 22.01.15 |    -     |
-|  5   | K번째 큰 수 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol05.js) |    -     |    -     |
+|  5   | K번째 큰 수 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol05.js) | 22.01.17 |    -     |
+
+<br />
+
+<div id="5"></div>
+
+## 효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)
+
+| 번호 |        문제        | JS 풀이 코드 | 1차 풀이 | 2차 풀이 |
+| :--: | :----------------: | :----------: | :------: | :------: |
+|  1   |   두 배열 합치기   |    [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol01.js)    |    -     |    -     |
+|  2   |  공통원소 구하기   |    [JS]()    |    -     |    -     |
+|  3   |   연속 부분수열1   |    [JS]()    |    -     |    -     |
+|  4   |   연속 부분수열2   |    [JS]()    |    -     |    -     |
+|  5   |     최대 매출      |    [JS]()    |    -     |    -     |
+|  6   |     학급 회장      |    [JS]()    |    -     |    -     |
+|  7   |      아나그램      |    [JS]()    |    -     |    -     |
+|  8   | 모든 아나그램 찾기 |    [JS]()    |    -     |    -     |
