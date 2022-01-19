@@ -6,7 +6,7 @@ function solution(n, m, arr) {
     sum = 0,
     lt = 0;
   // for 문을 사용하여 오른쪽 포인터 rt를 움직여 m 값을 넘지 않는 부분 수열 개수를 확인
-  for (let rt = 0; rt < m; rt++) {
+  for (let rt = 0; rt < n; rt++) {
     sum += arr[rt];
     // sum 값이 m을 넘으면 lt 포인터를 증가시키고 그 값 만큼 sum에서 감소시켜 값이 m 이하가 되도록 함
     while (sum > m) {
