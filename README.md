@@ -12,7 +12,8 @@
 2. [**1, 2차원 배열 탐색**](#2)
 3. [**문자열 탐색**](#3)
 4. [**완전탐색(블루투포스)**](#4)
-5. [**효윯성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)**](#4)
+5. [**효윯성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)**](#5)
+6. [**자료구조(스택 & 큐)**][#6]
 
 <br />
 
@@ -100,3 +101,19 @@
 |  6   |     학급 회장      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol06.js) | 22.01.20 |    -     |
 |  7   |      아나그램      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol07.js) | 22.01.20 |    -     |
 |  8   | 모든 아나그램 찾기 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol08.js) | 22.01.21 |    -     |
+
+<br />
+
+<div id="6"></div>
+
+## 자료구조(스택, 큐)
+
+| 번호 |        문제         |                                           JS 풀이 코드                                            | 1차 풀이 | 2차 풀이 |
+| :--: | :-----------------: | :-----------------------------------------------------------------------------------------------: | :------: | :------: |
+|  1   |     올바른 괄호     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol01.js) | 22.01.22 |    -     |
+|  2   |   괄호 문자 제거    |                                              [JS]()                                               |    -     |    -     |
+|  3   |   크레인 인형뽑기   |                                              [JS]()                                               |    -     |    -     |
+|  4   | 후위식(postfix)연산 |                                              [JS]()                                               |    -     |    -     |
+|  5   |      쇠막대기       |                                              [JS]()                                               |    -     |    -     |
+|  6   |     공주 구하기     |                                              [JS]()                                               |    -     |    -     |
+|  7   |    교육과정 설계    |                                              [JS]()                                               |    -     |    -     |
