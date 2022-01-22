@@ -111,7 +111,7 @@
 | 번호 |        문제         |                                           JS 풀이 코드                                            | 1차 풀이 | 2차 풀이 |
 | :--: | :-----------------: | :-----------------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   |     올바른 괄호     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol01.js) | 22.01.22 |    -     |
-|  2   |   괄호 문자 제거    |                                              [JS]()                                               |    -     |    -     |
+|  2   |   괄호 문자 제거    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol02.js) | 22.01.22 |    -     |
 |  3   |   크레인 인형뽑기   |                                              [JS]()                                               |    -     |    -     |
 |  4   | 후위식(postfix)연산 |                                              [JS]()                                               |    -     |    -     |
 |  5   |      쇠막대기       |                                              [JS]()                                               |    -     |    -     |
