@@ -114,6 +114,6 @@
 |  2   |   괄호 문자 제거    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol02.js) | 22.01.22 |    -     |
 |  3   |   크레인 인형뽑기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol03.js) | 22.01.23 |    -     |
 |  4   | 후위식(postfix)연산 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol04.js) | 22.01.23 |    -     |
-|  5   |      쇠막대기       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol04.js) | 22.01.24 |    -     |
-|  6   |     공주 구하기     |                                              [JS]()                                               |    -     |    -     |
+|  5   |      쇠막대기       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol05.js) | 22.01.24 |    -     |
+|  6   |     공주 구하기     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol06.js) | 22.01.25 |    -     |
 |  7   |    교육과정 설계    |                                              [JS]()                                               |    -     |    -     |
