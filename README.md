@@ -14,6 +14,7 @@
 4. [**완전탐색(블루투포스)**](#4)
 5. [**효윯성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)**](#5)
 6. [**자료구조(스택 & 큐)**](#6)
+7. [**정렬과 그리디, 결정알고리즘**](#7)
 
 <br />
 
@@ -117,3 +118,22 @@
 |  5   |      쇠막대기       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol05.js) | 22.01.24 |    -     |
 |  6   |     공주 구하기     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol06.js) | 22.01.25 |    -     |
 |  7   |    교육과정 설계    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/06-DataStructure/sol07.js) | 22.01.25 |    -     |
+
+<div id="7"></div>
+
+## 정렬과 그리디, 결정알고리즘
+
+| 번호 |            문제             | JS 풀이 코드 | 1차 풀이 | 2차 풀이 |
+| :--: | :-------------------------: | :----------: | :------: | :------: |
+|  1   |          선택 정렬          |    [JS]()    | 22.01.25 |    -     |
+|  2   |          버블 정렬          |    [JS]()    |    -     |    -     |
+|  3   | Special Sort(버블 정렬응용) |    [JS]()    |    -     |    -     |
+|  4   |          삽입 정렬          |    [JS]()    |    -     |    -     |
+|  5   |       LRU(캐시 변형)        |    [JS]()    |    -     |    -     |
+|  6   |       장난꾸러기 현수       |    [JS]()    |    -     |    -     |
+|  7   |          좌표 정렬          |    [JS]()    |    -     |    -     |
+|  8   |         회의실 배정         |    [JS]()    |    -     |    -     |
+|  9   |           결혼식            |    [JS]()    |    -     |    -     |
+|  10  |          이분 검색          |    [JS]()    |    -     |    -     |
+|  11  |         뮤직비디오          |    [JS]()    |    -     |    -     |
+|  12  |        마구간 정하기        |    [JS]()    |    -     |    -     |
