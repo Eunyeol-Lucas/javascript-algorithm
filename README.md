@@ -130,7 +130,7 @@
 |  3   | Special Sort(버블 정렬응용) | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol03.js) | 22.01.27 |    -     |
 |  4   |          삽입 정렬          | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol04.js) | 22.01.27 |    -     |
 |  5   |       LRU(캐시 변형)        | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol05.js) | 22.01.28 |    -     |
-|  6   |       장난꾸러기 현수       |                                          [JS]()                                          |    -     |    -     |
+|  6   |       장난꾸러기 현수       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol06.js) | 22.01.29  |    -     |
 |  7   |          좌표 정렬          |                                          [JS]()                                          |    -     |    -     |
 |  8   |         회의실 배정         |                                          [JS]()                                          |    -     |    -     |
 |  9   |           결혼식            |                                          [JS]()                                          |    -     |    -     |
