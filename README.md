@@ -132,8 +132,8 @@
 |  5   |       LRU(캐시 변형)        | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol05.js) | 22.01.28 |    -     |
 |  6   |       장난꾸러기 현수       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol06.js) | 22.01.29 |    -     |
 |  7   |          좌표 정렬          | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol07.js) | 22.01.30 |    -     |
-|  8   |         회의실 배정         | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol07.js) | 22.01.30 |    -     |
-|  9   |           결혼식            |                                          [JS]()                                          |    -     |    -     |
-|  10  |          이분 검색          |                                          [JS]()                                          |    -     |    -     |
+|  8   |         회의실 배정         | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol08.js) | 22.01.30 |    -     |
+|  9   |           결혼식            | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol09.js) | 22.01.30 |    -     |
+|  10  |          이분 검색          | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol10.js) | 22.01.31 |    -     |
 |  11  |         뮤직비디오          |                                          [JS]()                                          |    -     |    -     |
 |  12  |        마구간 정하기        |                                          [JS]()                                          |    -     |    -     |
