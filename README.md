@@ -135,5 +135,5 @@
 |  8   |         회의실 배정         | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol08.js) | 22.01.30 |    -     |
 |  9   |           결혼식            | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol09.js) | 22.01.30 |    -     |
 |  10  |          이분 검색          | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol10.js) | 22.01.31 |    -     |
-|  11  |         뮤직비디오          |                                          [JS]()                                          |    -     |    -     |
+|  11  |         뮤직비디오          | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/07-Sort/sol11.js) | 22.02.01 |    -     |
 |  12  |        마구간 정하기        |                                          [JS]()                                          |    -     |    -     |
