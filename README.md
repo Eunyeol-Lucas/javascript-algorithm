@@ -148,9 +148,9 @@
 | 번호 |         문제         |                                           JS 풀이 코드                                            | 1차 풀이 | 2차 풀이 |
 | :--: | :------------------: | :-----------------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   |       재귀함수       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol01.js) | 22.02.02 |    -     |
-|  2   |     이진수 출력      |                                              [JS]()                                               |    -     |    -     |
-|  3   |    이진 트리 순회    |                                              [JS]()                                               |    -     |    -     |
-|  4   |   부분집합 구하기    |                                              [JS]()                                               |    -     |    -     |
+|  2   |     이진수 출력      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol02.js) | 22.02.02 |    -     |
+|  3   |    이진 트리 순회    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol03.js) | 22.02.02 |    -     |
+|  4   |   부분집합 구하기    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol04.js) | 22.02.02 |    -     |
 |  5   |  합이 같은 부분집합  |                                              [JS]()                                               |    -     |    -     |
 |  6   |     바둑이 승차      |                                              [JS]()                                               |    -     |    -     |
 |  7   |   최대 점수 구하기   |                                              [JS]()                                               |    -     |    -     |
