@@ -154,8 +154,8 @@
 |  5   |  합이 같은 부분집합  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol05.js) | 22.02.03 |    -     |
 |  6   |     바둑이 승차      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol06.js) | 22.02.04 |    -     |
 |  7   |   최대 점수 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol07.js) | 22.02.05 |    -     |
-|  8   |   중복순열 구하기    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol07.js) | 22.02.05 |    -     |
-|  9   |       동전교환       |                                              [JS]()                                               |    -     |    -     |
+|  8   |   중복순열 구하기    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol08.js) | 22.02.05 |    -     |
+|  9   |       동전교환       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol09.js) | 22.02.06 |    -     |
 |  10  |     순열 구하기      |                                              [JS]()                                               |    -     |    -     |
 |  11  |       팩토리얼       |                                              [JS]()                                               |    -     |    -     |
 |  12  | 조합수(메모이제이션) |                                              [JS]()                                               |    -     |    -     |
