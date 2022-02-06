@@ -156,7 +156,7 @@
 |  7   |   최대 점수 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol07.js) | 22.02.05 |    -     |
 |  8   |   중복순열 구하기    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol08.js) | 22.02.05 |    -     |
 |  9   |       동전교환       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol09.js) | 22.02.06 |    -     |
-|  10  |     순열 구하기      |                                              [JS]()                                               |    -     |    -     |
+|  10  |     순열 구하기      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol10.js) | 22.02.07 |    -     |
 |  11  |       팩토리얼       |                                              [JS]()                                               |    -     |    -     |
 |  12  | 조합수(메모이제이션) |                                              [JS]()                                               |    -     |    -     |
 |  13  |    순열 추측하기     |                                              [JS]()                                               |    -     |    -     |
