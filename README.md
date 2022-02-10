@@ -160,5 +160,5 @@
 |  11  |       팩토리얼       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol11.js) | 22.02.07 |    -     |
 |  12  | 조합수(메모이제이션) | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol12.js) | 22.02.07 |    -     |
 |  13  |    순열 추측하기     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol13.js) | 22.02.09 |    -     |
-|  14  |     조합 구하기      |                                              [JS]()                                               |    -     |    -     |
+|  14  |     조합 구하기      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/08-Recursive&DFS/sol14.js) |    -     |    -     |
 |  15  |     수들의 조합      |                                              [JS]()                                               |    -     |    -     |
