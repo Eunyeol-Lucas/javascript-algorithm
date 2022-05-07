@@ -33,6 +33,32 @@ function solution(n, arr) {
   return answer;
 }
 
+function solution2(n, arr) {
+  let answer = 0;
+  const graph = Array.from({ length: n + 1 }, () => Array(5).fill(0));
+  const ch = Array(n + 1).fill(0);
+  for (const [a, b] of arr) {
+    graph[a][b] = 1;
+  }
+  function dfs(v) {
+    if (v === n) {
+      answer++;
+      return;
+    }
+    for (let i = 1; i <= n; i++) {
+      if (graph[v][i] && !ch[i]) {
+        ch[i] = 1;
+        dfs(i);
+        ch[i] = 0;
+      }
+    }
+  }
+  ch[1] = 1;
+  dfs(1);
+
+  return answer;
+}
+
 let arr = [
   [1, 2],
   [1, 3],
@@ -44,4 +70,4 @@ let arr = [
   [4, 2],
   [4, 5],
 ];
-console.log(solution(5, arr));
+console.log(solution2(5, arr));
