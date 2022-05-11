@@ -172,9 +172,10 @@
 
 | 번호 |           문제           | JS 풀이 코드 | 1차 풀이 | 2차 풀이 |
 | :--: | :----------------------: | :----------: | :------: | :------: |
-|  1   |  경로탐색(DFS-인접행렬)  |    [JS]()    | 22.02.15 | 22.05.08 |
-|  2   | 경로탐색(DFS-인접리스트) |    [JS]()    | 22.03.04 | 22.05.08 |
-|  3   |         미로탐색         |    [JS]()    | 22.05.08 |    -     |
-|  4   | 이진트리 넓이 우선 탐색  |    [JS]()    | 22.05.09 |    -     |
-|  4   |       송아지 찾기        |    [JS]()    | 22.05.11 |    -     |
-|  5   |     섬나라 아일랜드      |    [JS]()    |    -     |    -     |
+|  1   |  경로탐색(DFS-인접행렬)  |    [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol01.js)    | 22.02.15 | 22.05.08 |
+|  2   | 경로탐색(DFS-인접리스트) |    [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol02.js)    | 22.03.04 | 22.05.08 |
+|  3   |         미로탐색         |    [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol03.js)    | 22.05.08 |    -     |
+|  4   | 이진트리 넓이 우선 탐색  |    [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol04.js)    | 22.05.09 |    -     |
+|  4   |       송아지 찾기        |    [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol05.js)    | 22.05.11 |    -     |
+|  5   |   섬나라 아일랜드(DFS)   |    [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol01.js)    | 22.05.11 |    -     |
+|  6   |   섬나라 아일랜드(BFS)   |    [JS]()    |    -     |    -     |
