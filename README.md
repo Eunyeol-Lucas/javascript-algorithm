@@ -17,6 +17,7 @@
 7. [**정렬과 그리디, 결정알고리즘**](#7)
 8. [**재귀함수와 완전탐색(DFS:깊이우선탐색)**](#8)
 9. [**그래프와 탐색(DFS, BFS:넓이 우선탐색)**](#9)
+10. [**Dynamic programming(동적계획법)**](#10)
 
 <br />
 
@@ -179,3 +180,15 @@
 |  4   |       송아지 찾기        | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol05.js) | 22.05.11 |    -     |
 |  5   |   섬나라 아일랜드(DFS)   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol06.js) | 22.05.11 |    -     |
 |  6   |   섬나라 아일랜드(BFS)   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/09-Graph%26search/sol07.js) | 22.05.11 |    -     |
+
+<div id="10"></div>
+
+## Dynamic programming(동적계획법)
+
+| 번호 |        문제        | JS 풀이 코드 | 1차 풀이 | 2차 풀이 |
+| :--: | :----------------: | :----------: | :------: | :------: |
+|  1   |    계단 오르기     |    [JS]()    | 22.06.09 |          |
+|  2   |   돌다리 건너기    |    [JS]()    |          |          |
+|  3   | 최대 부분 증가수열 |    [JS]()    |          |          |
+|  4   |      동전교환      |    [JS]()    |          |          |
+|  5   |  최대점수 구하기   |    [JS]()    |          |          |
