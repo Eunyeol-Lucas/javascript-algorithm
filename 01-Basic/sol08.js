@@ -30,6 +30,7 @@ function solution2(arr) {
             }
         }
     }
+
     return answer;
 }
 
