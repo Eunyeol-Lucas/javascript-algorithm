@@ -30,7 +30,7 @@
 |  1   | 세 수 중 최소값  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol01.js) | 21.12.18 | 22.06.12  |
 |  2   | 삼각형 판별하기  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol02.js) | 21.12.18 | 22.06.12  |
 |  3   |    연필 개수     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol03.js) | 21.12.18 | 22.06.12  |
-|  4   | 1부터 N까지의 합 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol04.js) | 21.12.18 |     -     |
+|  4   | 1부터 N까지의 합 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol04.js) | 21.12.18 | 22.06.12  |
 |  5   |  최소값 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol05.js) | 21.12.20 | 21.12.24. |
 |  6   |       홀수       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol06.js) | 21.12.22 |     -     |
 |  7   |      10부제      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol07.js) | 21.12.23 |     -     |
