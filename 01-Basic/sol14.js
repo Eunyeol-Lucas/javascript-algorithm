@@ -11,9 +11,7 @@ function solution1(arr) {
 
 function solution2(arr) {
     let answer = "";
-    for (let x of arr) {
-        if (x.length > answer.length) answer = x;
-    }
+    answer = arr.sort((a, b) => b.length - a.length)[0];
 
     return answer;
 }
