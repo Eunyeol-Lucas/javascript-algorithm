@@ -27,7 +27,7 @@
 
 | 번호 |       문제       |                                       JS 풀이 코드                                        | 1차 풀이 | 2차 풀이  |
 | :--: | :--------------: | :---------------------------------------------------------------------------------------: | :------: | :-------: |
-|  1   | 세 수 중 최소값  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol01.js) | 21.12.18 |     -     |
+|  1   | 세 수 중 최소값  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol01.js) | 21.12.18 | 22.06.12  |
 |  2   | 삼각형 판별하기  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol02.js) | 21.12.18 |     -     |
 |  3   |    연필 개수     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol03.js) | 21.12.18 |     -     |
 |  4   | 1부터 N까지의 합 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol04.js) | 21.12.18 |     -     |

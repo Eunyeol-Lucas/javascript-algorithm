@@ -7,6 +7,7 @@ function solution(M, arr) {
         }
     }
     answer = Math.max(...dy);
+    console.log(dy)
     return answer;
 }
 let arr = [
