@@ -34,15 +34,15 @@
 |  5   |  최소값 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol05.js) | 21.12.20 | 21.12.24. |
 |  6   |       홀수       | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol06.js) | 21.12.22 | 22.06.12  |
 |  7   |      10부제      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol07.js) | 21.12.23 | 22.06.13  |
-|  8   |    일곱난쟁이    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol08.js) | 21.12.24 |     -     |
-|  9   |    A를 #으로     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol09.js) | 21.12.24 |     -     |
-|  10  |    문자 찾기     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol10.js) | 21.12.24 |     -     |
-|  11  |   대문자 찾기    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol11.js) | 21.12.24 |     -     |
-|  12  |   대문자 통일    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol12.js) | 21.12.24 |     -     |
-|  13  |  대소문자 변환   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol13.js) | 21.12.24 |     -     |
-|  14  |  가장 긴 문자열  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol14.js) | 21.12.24 |     -     |
-|  15  | 가운데 문자 출력 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol15.js) | 21.12.25 |     -     |
-|  16  |  중복 문자 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol16.js) | 21.12.28 |     -     |
+|  8   |    일곱난쟁이    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol08.js) | 21.12.24 | 22.06.13  |
+|  9   |    A를 #으로     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol09.js) | 21.12.24 | 22.06.13  |
+|  10  |    문자 찾기     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol10.js) | 21.12.24 | 22.06.13  |
+|  11  |   대문자 찾기    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol11.js) | 21.12.24 | 22.06.13  |
+|  12  |   대문자 통일    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol12.js) | 21.12.24 | 22.06.13  |
+|  13  |  대소문자 변환   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol13.js) | 21.12.24 | 22.06.13  |
+|  14  |  가장 긴 문자열  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol14.js) | 21.12.24 | 22.06.13  |
+|  15  | 가운데 문자 출력 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol15.js) | 21.12.25 | 22.06.13  |
+|  16  |  중복 문자 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol16.js) | 21.12.28 | 22.06.13  |
 |  17  |  중복 단어 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol17.js) | 21.12.28 |     -     |
 
 <br />
@@ -53,7 +53,7 @@
 
 | 번호 |      문제      |                                       JS 풀이 코드                                        | 1차 풀이 | 2차 풀이 |
 | :--: | :------------: | :---------------------------------------------------------------------------------------: | :------: | :------: |
-|  1   | 큰 수 출력하기 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol01.js) | 22.01.01 |    -     |
+|  1   | 큰 수 출력하기 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol01.js) | 22.01.01 | 22.06.13 |
 |  2   |  보이는 학생   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol02.js) | 22.01.01 |    -     |
 |  3   |   가위바위보   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol03.js) | 22.01.02 |    -     |
 |  4   |   점수 계산    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol04.js) | 22.01.03 |    -     |
