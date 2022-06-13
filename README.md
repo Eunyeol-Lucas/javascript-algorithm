@@ -54,7 +54,7 @@
 | 번호 |      문제      |                                       JS 풀이 코드                                        | 1차 풀이 | 2차 풀이 |
 | :--: | :------------: | :---------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   | 큰 수 출력하기 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol01.js) | 22.01.01 | 22.06.13 |
-|  2   |  보이는 학생   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol02.js) | 22.01.01 |    -     |
+|  2   |  보이는 학생   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol02.js) | 22.01.01 | 22.06.13 |
 |  3   |   가위바위보   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol03.js) | 22.01.02 |    -     |
 |  4   |   점수 계산    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol04.js) | 22.01.03 |    -     |
 |  5   |  등수 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol05.js) | 22.01.04 |    -     |
