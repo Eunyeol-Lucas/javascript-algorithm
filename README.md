@@ -55,11 +55,11 @@
 | :--: | :------------: | :---------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   | 큰 수 출력하기 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol01.js) | 22.01.01 | 22.06.13 |
 |  2   |  보이는 학생   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol02.js) | 22.01.01 | 22.06.13 |
-|  3   |   가위바위보   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol03.js) | 22.01.02 |    -     |
-|  4   |   점수 계산    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol04.js) | 22.01.03 |    -     |
-|  5   |  등수 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol05.js) | 22.01.04 |    -     |
-|  6   | 격자판 최대합  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol06.js) | 22.01.05 |    -     |
-|  7   |     봉우리     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol07.js) | 22.01.06 |    -     |
+|  3   |   가위바위보   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol03.js) | 22.01.02 | 22.06.13 |
+|  4   |   점수 계산    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol04.js) | 22.01.03 | 22.06.13 |
+|  5   |  등수 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol05.js) | 22.01.04 | 22.06.14 |
+|  6   | 격자판 최대합  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol06.js) | 22.01.05 | 22.06.14 |
+|  7   |     봉우리     | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/02-Array/sol07.js) | 22.01.06 | 22.06.14 |
 
 <br />
 
@@ -69,7 +69,7 @@
 
 | 번호 |        문제        |                                        JS 풀이 코드                                        | 1차 풀이 | 2차 풀이 |
 | :--: | :----------------: | :----------------------------------------------------------------------------------------: | :------: | :------: |
-|  1   |     회문문자열     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol01.js) | 22.01.07 |    -     |
+|  1   |     회문문자열     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol01.js) | 22.01.07 | 22.06.14 |
 |  2   |  유효한 팰린드롬   | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol02.js) | 22.01.08 |    -     |
 |  3   |    숫자만 추출     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol03.js) | 22.01.08 |    -     |
 |  4   | 가장 짧은 문자거리 | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol04.js) | 22.01.09 |    -     |
