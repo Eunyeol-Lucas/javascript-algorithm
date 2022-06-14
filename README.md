@@ -43,7 +43,7 @@
 |  14  |  가장 긴 문자열  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol14.js) | 21.12.24 | 22.06.13  |
 |  15  | 가운데 문자 출력 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol15.js) | 21.12.25 | 22.06.13  |
 |  16  |  중복 문자 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol16.js) | 21.12.28 | 22.06.13  |
-|  17  |  중복 단어 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol17.js) | 21.12.28 |     -     |
+|  17  |  중복 단어 제거  | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/01-Basic/sol17.js) | 21.12.28 | 22.06.13  |
 
 <br />
 
@@ -73,7 +73,7 @@
 |  2   |  유효한 팰린드롬   | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol02.js) | 22.01.08 | 22.06.14 |
 |  3   |    숫자만 추출     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol03.js) | 22.01.08 | 22.06.14 |
 |  4   | 가장 짧은 문자거리 | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol04.js) | 22.01.09 | 22.06.14 |
-|  5   |    문자열 압축     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol05.js) | 22.01.10 |    -     |
+|  5   |    문자열 압축     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol05.js) | 22.01.10 | 22.06.14 |
 
 <br />
 
