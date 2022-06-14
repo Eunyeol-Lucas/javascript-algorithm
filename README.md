@@ -70,7 +70,7 @@
 | 번호 |        문제        |                                        JS 풀이 코드                                        | 1차 풀이 | 2차 풀이 |
 | :--: | :----------------: | :----------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   |     회문문자열     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol01.js) | 22.01.07 | 22.06.14 |
-|  2   |  유효한 팰린드롬   | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol02.js) | 22.01.08 |    -     |
+|  2   |  유효한 팰린드롬   | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol02.js) | 22.01.08 | 22.06.14 |
 |  3   |    숫자만 추출     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol03.js) | 22.01.08 |    -     |
 |  4   | 가장 짧은 문자거리 | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol04.js) | 22.01.09 |    -     |
 |  5   |    문자열 압축     | [JS](https://github.com/JeongHwan-dev/javascript-algorithm/blob/master/03-search/sol05.js) | 22.01.10 |    -     |
