@@ -83,7 +83,7 @@
 
 | 번호 |    문제     |                                          JS 풀이 코드                                          | 1차 풀이 | 2차 풀이 |
 | :--: | :---------: | :--------------------------------------------------------------------------------------------: | :------: | :------: |
-|  1   | 자리수의 합 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol01.js) | 22.01.11 |    -     |
+|  1   | 자리수의 합 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol01.js) | 22.01.11 | 22.06.15 |
 |  2   | 뒤집은 소수 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol02.js) | 22.01.12 |    -     |
 |  3   |   멘토링    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol03.js) | 22.01.13 |    -     |
 |  4   |  졸업선물   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol04.js) | 22.01.15 |    -     |
