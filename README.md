@@ -86,7 +86,7 @@
 |  1   | 자리수의 합 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol01.js) | 22.01.11 | 22.06.15 |
 |  2   | 뒤집은 소수 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol02.js) | 22.01.12 | 22.06.15 |
 |  3   |   멘토링    | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol03.js) | 22.01.13 | 22.06.15 |
-|  4   |  졸업선물   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol04.js) | 22.01.15 |    -     |
+|  4   |  졸업선물   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol04.js) | 22.01.15 | 22.06.16 |
 |  5   | K번째 큰 수 | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/04-BruteForce/sol05.js) | 22.01.17 |    -     |
 
 <br />
