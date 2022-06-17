@@ -29,6 +29,7 @@ function solution1(N, M, arr) {
 function solution2(N, M, arr) {
     let answer = 0;
     arr.sort((a, b) => a[0] + a[1] - (b[0] + b[1]));
+
     for (let i = 0; i < N; i++) {
         let cost = M - arr[i][0] / 2 + arr[i][1];
         let cnt = 1;
