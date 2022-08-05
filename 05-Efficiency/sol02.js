@@ -21,6 +21,22 @@ function solution(N, M, a, b) {
   return answer;
 }
 
+function solution2(N, M, a, b) {
+  let answer = [];
+  a.sort((a, b) => a - b);
+  b.sort((a, b) => a - b);
+  let p1 = (p2 = 0);
+  while (p1 < N && p2 < M) {
+    if (a[p1] === b[p2]) {
+      answer.push(a[p1++]);
+      p2++;
+    } else if (a[p1] < b[p2]) p1++;
+    else p2++;
+  }
+
+  return answer;
+}
+
 let N = 5;
 let a = [1, 3, 9, 5, 2];
 let M = 5;

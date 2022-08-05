@@ -98,7 +98,7 @@
 | 번호 |        문제        |                                          JS 풀이 코드                                          | 1차 풀이 | 2차 풀이 |
 | :--: | :----------------: | :--------------------------------------------------------------------------------------------: | :------: | :------: |
 |  1   |   두 배열 합치기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol01.js) | 22.01.17 | 22.06.22 |
-|  2   |  공통원소 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol02.js) | 22.01.17 |    -     |
+|  2   |  공통원소 구하기   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol02.js) | 22.01.17 | 22.08.05 |
 |  3   |   연속 부분수열1   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol03.js) | 22.01.18 |    -     |
 |  4   |   연속 부분수열2   | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol04.js) | 22.01.19 |    -     |
 |  5   |     최대 매출      | [JS](https://github.com/Eunyeol-Lucas/javascript-algorithm/blob/master/05-Efficiency/sol05.js) | 22.01.20 |    -     |
