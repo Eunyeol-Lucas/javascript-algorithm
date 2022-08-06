@@ -47,8 +47,23 @@ function solution2(N, M, arr) {
   return answer;
 }
 
+function solution3(N, M, arr) {
+  let answer = 0,
+    lt = 0,
+    sum = 0;
+  for (let rt = 0; rt < N; rt++) {
+    sum += arr[rt];
+    if (sum === M) answer++;
+    while (sum >= M) {
+      sum -= arr[lt++];
+      if (sum === M) answer++;
+    }
+  }
+  return answer;
+}
 let N = 8,
   M = 6,
   arr = [1, 2, 1, 3, 1, 1, 1, 2];
 console.log(solution1(N, M, arr));
 console.log(solution2(N, M, arr));
+console.log(solution3(N, M, arr));
