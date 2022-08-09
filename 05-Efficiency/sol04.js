@@ -17,7 +17,22 @@ function solution(n, m, arr) {
   return answer;
 }
 
+function solution2(n, m, arr) {
+  let answer = 0,
+    sum = 0,
+    lt = 0;
+  for (let rt = 0; rt < n; rt++) {
+    sum += arr[rt];
+    while (sum > m) {
+      sum -= arr[lt++];
+    }
+    answer += rt - lt + 1;
+  }
+  return answer;
+}
+
 let N = 5,
   M = 5,
   arr = [1, 3, 1, 2, 3];
 console.log(solution(N, M, arr));
+console.log(solution2(N, M, arr));
