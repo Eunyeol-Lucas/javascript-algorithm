@@ -17,8 +17,22 @@ function solution(n, m, arr) {
   return answer;
 }
 
+function solution2(n, m, arr) {
+  let answer = 0,
+    sum = 0;
+  for (let rt = 0; rt < m; rt++) sum += arr[rt];
+  answer = sum;
+  for (let i = m; i < n; i++) {
+    sum += arr[i] - arr[i - m];
+    answer = Math.max(answer, sum);
+  }
+
+  return answer;
+}
+
 let N = 5,
   M = 3,
   arr = [12, 15, 11, 20, 25, 10, 20, 19, 13, 15];
 
 console.log(solution(N, M, arr));
+console.log(solution2(N, M, arr));
