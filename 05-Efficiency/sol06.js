@@ -44,6 +44,25 @@ function solution2(vote) {
   return answer;
 }
 
+function solution3(vote) {
+  let answer;
+  let hash = new Map();
+  for (let x of vote) {
+    if (hash.has(x)) {
+      hash.set(x, hash.get(x) + 1);
+    } else hash.set(x, 1);
+    let max = Number.MIN_SAFE_INTEGER;
+    for (let [key, val] of hash) {
+      if (val > max) {
+        max = val;
+        answer = key;
+      }
+    }
+  }
+  return answer;
+}
+
 vote = "BACBACCACCBDEDE";
 console.log(solution1(vote));
 console.log(solution2(vote));
+console.log(solution3(vote));
