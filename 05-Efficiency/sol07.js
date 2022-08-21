@@ -42,9 +42,24 @@ function solution2(firstWord, secondWord) {
   return answer;
 }
 
+function solution3(firstWord, secondWord) {
+  let answer = "YES";
+  let hash = new Map();
+  for (let x of firstWord) {
+    if (hash.has(x)) hash.set(x, hash.get(x) + 1);
+    else hash.set(x, 1);
+  }
+  for (let x of secondWord) {
+    if (!hash.has(x) || hash.get(x) == 0) return "NO";
+    hash.set(x, hash.get(x) - 1);
+  }
+  return answer;
+}
+
 let firstWord = "AbaAeCe";
 let secondWord = "baeeACA";
 
 console.log(solution1(firstWord, secondWord));
 
 console.log(solution2(firstWord, secondWord));
+console.log(solution3(firstWord, secondWord));
